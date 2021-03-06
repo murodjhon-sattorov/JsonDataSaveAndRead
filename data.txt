@@ -1,6 +1,6 @@
 {
   "uzCard": {
-    "name" : "",
+    "name" : "Murodjon",
     "cardNumber": "",
     "phoneNumber": ""
   }
