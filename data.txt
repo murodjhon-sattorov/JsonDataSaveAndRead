@@ -1,0 +1,7 @@
+{
+  "uzCard": {
+    "name" : "",
+    "cardNumber": "",
+    "phoneNumber": ""
+  }
+}
