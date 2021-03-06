@@ -1,6 +1,6 @@
 {
   "uzCard": {
-    "name" : "Murod jon",
+    "name" : "Murodjon",
     "cardNumber": "1234567891234567",
     "phoneNumber": "998999999999"
   }
